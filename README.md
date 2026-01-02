@@ -58,6 +58,7 @@ restaurant-reservation-system/
 │
 └── README.md
 
+```
 <img width="1899" height="756" alt="image" src="https://github.com/user-attachments/assets/54937816-24c3-405e-8293-0f06f1997e23" />
 Admin Dashboard click on Dashboard
 
